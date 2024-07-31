@@ -35,3 +35,6 @@ pip install -r requirements.txt
 - DB_PASSWORD=your_database_password
 - DB_NAME=your_database_name
 
+## Database Setup
+
+- Ensure mysql is installed and a proper connection to a mysql instance is established before execution.
