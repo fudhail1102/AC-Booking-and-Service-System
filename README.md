@@ -25,13 +25,13 @@ You can install these packages using the following command:
 
 ```sh
 pip install -r requirements.txt
-
+```
 ## Setting up Environment Variables
 
--- Create a .env file in the root directory of your project and add the following environment variables with your MySQL database credentials:
+- Create a .env file in the root directory of your project and add the following environment variables with your MySQL database credentials:
 
--- DB_HOST=your_database_host
--- DB_USER=your_database_user
--- DB_PASSWORD=your_database_password
--- DB_NAME=your_database_name
+- DB_HOST=your_database_host
+- DB_USER=your_database_user
+- DB_PASSWORD=your_database_password
+- DB_NAME=your_database_name
 
